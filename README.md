@@ -9,3 +9,9 @@ Principais habilidades:
 - Escrever funções de forma que elas atendam a testes já implementados;
 - Escrever testes e funções utilizando uma abordagem de desenvolvimento orientado a testes.
 </p>
+
+## Ferramentas utilizadas
+
+- Javascript ES6
+- Jest
+- NodeJS
